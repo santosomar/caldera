@@ -10,3 +10,4 @@ pyDatalog==0.17.1
 ujson==1.35
 unification==0.2.2
 antlr4-python3-runtime==4.7
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
