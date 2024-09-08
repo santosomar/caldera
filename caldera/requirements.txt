@@ -10,3 +10,5 @@ pyDatalog==0.17.1
 ujson==1.35
 unification==0.2.2
 antlr4-python3-runtime==4.7
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+jinja2>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
